@@ -9,4 +9,4 @@ def dodawanie(a,b):
 a = int(input('Podaj pierwsza liczba'))
 b = int(input('Podaj druga liczba'))	
 
-dodawanie(a,b)
+print(dodawanie(a,b))
